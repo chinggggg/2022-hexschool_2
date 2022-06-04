@@ -1,0 +1,16 @@
+* {
+  color: #3F5D45;
+  line-height: 1.5;
+  font-size: 16px;
+  font-family: PingFang TC, Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 1085px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
